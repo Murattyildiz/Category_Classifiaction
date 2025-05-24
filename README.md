@@ -50,3 +50,5 @@ streamlit run app.py
 - **Maksimum Metin Uzunluğu**: 375 token
 - **Görselleştirme**: Plotly
 - **Dil**: Türkçe
+
+# Kullandığım Modelin linki:https://www.kaggle.com/code/muratyilldiz/nlp-text/
