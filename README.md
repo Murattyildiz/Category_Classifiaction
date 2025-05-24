@@ -51,4 +51,4 @@ streamlit run app.py
 - **Görselleştirme**: Plotly
 - **Dil**: Türkçe
 
-# Kullandığım Modelin linki:https://www.kaggle.com/code/muratyilldiz/nlp-text/
+## Kullandığım Modelin linki:https://www.kaggle.com/code/muratyilldiz/nlp-text/
